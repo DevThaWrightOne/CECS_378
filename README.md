@@ -1,2 +1,2 @@
 # CECS_378
-Repository used for CECS 378 (Intro to Computer Security) group projects.
+Devon Wright's and Luz Perez's repository for CECS 378 (Intro to Computer Security) group projects.
